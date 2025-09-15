@@ -68,5 +68,3 @@ jupyter notebook
 4. Segment the data using `PerformanceSegmentation.ipynb`.
 5. Build Logistic models for approval and funding with `PredictiveModelling.ipynb`.
 
-Do you want me to also **generate the `requirements.txt`** automatically from your notebooks (by scanning imports), so it’s ready for the repo?
-```
