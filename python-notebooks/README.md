@@ -28,8 +28,8 @@ It is designed as a modular pipeline where each notebook addresses a specific st
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/data-pipeline-toolkit.git
-cd data-pipeline-toolkit
+git clone https://github.com/rmabirami98-git/auto-loan-data-analysis.git
+cd auto-loan-data-analysis/python-notebooks
 ````
 
 ### 2. Install dependencies
