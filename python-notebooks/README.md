@@ -1,6 +1,6 @@
 # Python Notebooks
 
-This folder contains a collection of Jupyter notebooks for **data preprocessing, analysis, quality checking, segmentation, and predictive modeling for Auto Loan Data**.  
+This folder contains a collection of Jupyter notebooks for **data preprocessing, analysis, quality checking, segmentation, and predictive modeling for Oodle Loan Data**.  
 It is designed as a modular pipeline where each notebook addresses a specific step in the data science workflow.  
 
 ---
