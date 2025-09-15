@@ -4,10 +4,12 @@ This repository contains a complete end-to-end case study using the provided syn
 
 ---
 
-## Buine Problem
-
 ## 📁 Repository Structure
 
+- **`artifacts/`**    
+  - `cleaned_loan_data.csv` → Cleaned loan data  
+  - `ExecutiveSummary.pdf` → Containing Data Drive Insights and Recommendations for decision making 
+  
 - **`python-notebook/`**  
   Jupyter notebooks covering the full data pipeline:  
   - `DataPreprocessor.ipynb` → Cleans and transforms raw data  
