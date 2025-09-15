@@ -1,8 +1,10 @@
 # 📊 Oodle Loan Data Analytics
 
-This repository contains a complete **Oodle Loan Data Analytics workflow** for Loan dataset, combining **Python-based analysis** and **Tableau dashboards** for visualization.  
+This repository contains a complete end-to-end case study using the provided synthetic auto-loan dataset (10,000 records). The goal of this analysis is to help the marketing team decide where to invest more effectively — which customer segments, channels or product offers are most likely to produce funded loans — and to present results to technical leadership with full reproducibility combining **Python-based analysis** and **Tableau dashboards** for visualization.  
 
 ---
+
+## Buine Problem
 
 ## 📁 Repository Structure
 
