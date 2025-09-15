@@ -4,17 +4,17 @@ This repository contains a complete end-to-end case study using the provided syn
 
 ---
 
-## 📁 Repository Structure
+## 📁 Deliverables
 
 - **`artifacts/`**    
   - `cleaned_loan_data.csv` → Cleaned loan data  
-  - `ExecutiveSummary.pdf` → Containing Data Drive Insights and Recommendations for decision making 
+  - `ExecutiveSummary.pdf` → Containing Data Driven Insights and Recommendations for decision making 
   
 - **`python-notebook/`**  
   Jupyter notebooks covering the full data pipeline:  
-  - `DataPreprocessor.ipynb` → Cleans and transforms raw data  
+  - `DataPreprocessor.ipynb` → Cleans and transforms raw data
+  - `DataQualityChecker.ipynb` → Automated data quality checks & reporting 
   - `DataAnalyser.ipynb` → Exploratory Data Analysis (EDA)  
-  - `DataQualityChecker.ipynb` → Automated data quality checks & reporting  
   - `PerformanceSegmentation.ipynb` → Customer segmentation and performance analysis  
   - `PredictiveModelling.ipynb` → Machine learning for default prediction  
 
