@@ -52,12 +52,9 @@ jupyter notebook
 
 ## 📌 Requirements
 
-* Python 3.8+
+* Python 3.13.7
 * Jupyter Notebook
 * pandas, numpy, matplotlib, seaborn, scikit-learn
-
-(Additional libraries may be required depending on your dataset and use cases.)
-
 ---
 
 ## 📊 Example Workflow
