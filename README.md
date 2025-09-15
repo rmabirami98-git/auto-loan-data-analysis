@@ -16,7 +16,7 @@ This repository contains a complete end-to-end case study using the provided syn
   - `DataQualityChecker.ipynb` → Automated data quality checks & reporting 
   - `DataAnalyser.ipynb` → Exploratory Data Analysis (EDA)  
   - `PerformanceSegmentation.ipynb` → Customer segmentation and performance analysis  
-  - `PredictiveModelling.ipynb` → Machine learning for default prediction  
+  - `PredictiveModelling.ipynb` → Logistic Regression Model built for approval and funded   
 
 - **`tableau-workbook/`**  
   Tableau packaged workbook (`Oodle Loan Data Analytics.twbx`) with interactive dashboards for Loan Performance insights.  
