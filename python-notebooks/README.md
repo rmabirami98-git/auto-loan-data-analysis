@@ -20,7 +20,7 @@ It is designed as a modular pipeline where each notebook addresses a specific st
   Performs segmentation analysis to identify performance groups, clusters, or cohorts within the dataset.  
 
 - **`PredictiveModelling.ipynb`**  
-  Builds and evaluates machine learning models for predictive tasks.  
+  Builds and evaluates machine learning models for approval and funding.  
 
 ---
 
